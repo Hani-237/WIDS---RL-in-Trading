@@ -1,6 +1,6 @@
 # WIDS - Reinforcement Learning in Trading
 
-Welcome to the **Women in Data Science (WIDS) - RL in Trading** repository. This project contains a collection of notebooks, assignments, and implementations designed to build a strong foundation in Reinforcement Learning (RL) and its application to trading and decision-making problems.
+Welcome to the **Winter in Data Science (WIDS) - RL in Trading** repository. This project contains a collection of notebooks, assignments, and implementations designed to build a strong foundation in Reinforcement Learning (RL) and its application to trading and decision-making problems.
 
 ## 📂 Repository Structure & Curriculum
 

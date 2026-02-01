@@ -4,7 +4,7 @@ Welcome to the **Winter in Data Science (WIDS) - RL in Trading** repository. Thi
 
 ## 📂 Repository Structure & Curriculum
 
-The content is organized into a 3-week curriculum, progressing from data manipulation tools to core RL algorithms and environment modeling.
+The content is organized into a 4-week curriculum, progressing from data manipulation tools to core RL algorithms, environment modeling, and finally, a full trading agent implementation.
 
 ### 🔹 Week 1: Data Science Foundations
 *Focus: Mastering the Python data stack essential for Quant/RL workflows.*
@@ -32,7 +32,15 @@ The content is organized into a 3-week curriculum, progressing from data manipul
   - **Frozen Lake:** Grid-world dynamics with boundary checks and slippery movement.
 - **Files:** `Assignment_3.ipynb`
 
+### 🔹 Week 4: Q-Learning Trading Agent (Final Project)
+*Focus: Applying tabular RL to real-world financial markets.*
+- **Custom Environment:** Building a `TradingEnv` class to simulate stock trading logic (Buy, Sell, Hold).
+- **Q-Learning Algorithm:** Implementing the full Q-Learning update loop using the Bellman equation.
+- **Market Data:** Fetching real historical data (e.g., AAPL) using `yfinance` to train the agent.
+- **Evaluation & Benchmarking:** Testing the trained agent without exploration and comparing its ROI against a standard "Buy and Hold" baseline.
+- **Files:** `Final_Project.ipynb`
 
+---
 
 1. **Clone the repository:**
    ```bash
